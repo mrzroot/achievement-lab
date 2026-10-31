@@ -16,4 +16,4 @@ expected and what happened instead, plus your OS and browser/runtime version.
 
 ## Licence
 
-By contributing you agree that your work is released under this repository's [LICENSE](LICENSE).
+This repository has no open-source licence yet. Please ask in an issue before sending a change.
