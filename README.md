@@ -11,6 +11,10 @@ no software to install or run here.
 - [COLLABORATION.md](COLLABORATION.md): how pull requests and reviews are done here.
 - `achievements/` and `milestones/`: one small file per exercise.
 
+## Practice a real review
+
+Use a small documentation change to practise writing a clear pull request, giving actionable feedback and verifying a revision. [Follow the exercise](WORKFLOW.md). This sandbox does not award or promise achievements.
+
 ## Contributing
 
 This is a personal sandbox, so outside pull requests are not expected. Questions go to [issues](../../issues/new/choose).
